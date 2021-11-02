@@ -1,2 +1,2 @@
 # DIVYA.J
-whatsapp automation
+THE-INTERN-ACADEMY_PYTHON PROJECTS
